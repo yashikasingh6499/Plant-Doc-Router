@@ -1,0 +1,88 @@
+Document Title: Maintenance Manual for Common Plant Equipment
+Document ID: MNT-001
+Version: 1.0
+Department: Maintenance
+
+Purpose:
+This document provides standard troubleshooting and preventive maintenance guidance for commonly used plant equipment including pumps, conveyors, and sensors.
+
+Scope:
+Applies to maintenance technicians, reliability staff, and supervisors responsible for plant equipment upkeep.
+
+Section 1: Pump Preventive Maintenance
+Frequency:
+- Visual inspection: daily
+- Bearing temperature check: weekly
+- Coupling inspection: monthly
+- Seal inspection: monthly
+- Full preventive maintenance review: quarterly
+
+Pump Inspection Checklist:
+1. Check for abnormal noise or vibration.
+2. Inspect for seal leakage.
+3. Verify suction and discharge pressure are within operating range.
+4. Confirm motor current is within normal limits.
+5. Check lubrication status of bearings if applicable.
+6. Inspect coupling alignment.
+7. Ensure mounting bolts are tight.
+
+Common Pump Issues:
+Issue: Low flow
+Possible Causes:
+- Blocked suction line
+- Air ingress
+- Worn impeller
+- Low tank level
+
+Issue: High vibration
+Possible Causes:
+- Misalignment
+- Bearing wear
+- Cavitation
+- Loose base
+
+Section 2: Conveyor Troubleshooting
+Issue: Conveyor belt not starting
+Checks:
+1. Confirm power supply is available.
+2. Verify emergency stop is reset.
+3. Check overload relay status.
+4. Inspect motor starter condition.
+5. Confirm no jammed material is blocking motion.
+
+Issue: Belt tracking to one side
+Checks:
+1. Inspect roller alignment.
+2. Check belt tension.
+3. Remove debris from rollers.
+4. Verify frame is level.
+
+Issue: Abnormal noise
+Checks:
+1. Inspect bearings for wear.
+2. Check chain or drive tension.
+3. Look for loose guards or panels.
+
+Section 3: Sensor Calibration Guidance
+Applies To:
+- Temperature sensors
+- Pressure transmitters
+- Proximity sensors
+
+Calibration Steps:
+1. Isolate equipment if required.
+2. Use calibrated reference instrument.
+3. Record current reading.
+4. Compare actual reading with reference value.
+5. Adjust sensor offset if deviation exceeds tolerance.
+6. Re-test after adjustment.
+7. Record calibration results in the maintenance log.
+
+Maintenance Rules:
+- Only qualified personnel may open control panels.
+- Lockout-tagout is required before invasive maintenance.
+- Any repeated fault within 7 days must be escalated for root cause review.
+- Replaced parts must match approved specifications.
+
+Supervisor Guidance:
+If the same conveyor trips multiple times in one shift, do not keep resetting without inspection. Escalate to maintenance for fault investigation.

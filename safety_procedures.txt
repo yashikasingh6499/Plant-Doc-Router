@@ -1,0 +1,64 @@
+Document Title: General Safety Procedures for Plant Operations
+Document ID: SAF-001
+Version: 1.0
+Department: Plant Safety
+
+Purpose:
+This document defines standard safety procedures for plant operators and floor supervisors to reduce risk of injury, equipment damage, and unsafe operating conditions.
+
+Scope:
+Applies to all personnel working in production, utility, maintenance support, and material handling areas.
+
+General Safety Rules:
+1. Wear required PPE at all times in designated production areas.
+2. Never operate equipment unless trained and authorized.
+3. Report unsafe conditions immediately to the floor supervisor.
+4. Keep aisles, exits, and emergency equipment access points clear.
+5. Do not bypass machine guards, interlocks, or emergency stops.
+6. Follow lockout-tagout procedures before cleaning, inspection, or maintenance of equipment.
+7. Use proper lifting techniques and approved lifting devices for heavy materials.
+8. Immediately clean spills or isolate the area until it can be cleaned safely.
+9. Do not enter confined spaces without permit approval and atmospheric testing.
+10. Follow chemical handling instructions and review the Safety Data Sheet before use.
+
+PPE Requirements:
+- Safety helmet
+- Safety glasses with side shields
+- Steel-toe shoes
+- Cut-resistant gloves when handling sharp parts or materials
+- Hearing protection in marked high-noise areas
+- Chemical-resistant gloves and goggles when handling chemicals
+
+Emergency Response:
+Fire:
+- Activate the nearest alarm pull station
+- Notify the supervisor
+- Evacuate using the nearest safe exit
+- Proceed to the assembly point
+- Do not re-enter until clearance is given
+
+Chemical Spill:
+- Stop work immediately
+- Isolate the area
+- Inform the floor supervisor and EHS
+- Use spill kits only if trained and if the spill is minor
+- For major spills, evacuate and wait for the emergency response team
+
+Machine Jam or Unsafe Condition:
+- Stop the equipment using normal controls if safe
+- Apply lockout-tagout before clearing the jam
+- Never place hands near moving parts without verified zero-energy isolation
+
+Supervisor Responsibilities:
+- Confirm workers are using correct PPE
+- Ensure pre-shift safety checks are completed
+- Escalate serious hazards immediately
+- Stop work when unsafe conditions exist
+- Verify incident reporting is completed
+
+Common Questions:
+Q: Can an operator remove jammed material without lockout?
+A: No. Any task requiring access to a danger zone must follow lockout-tagout.
+
+Q: What should happen if a worker notices a chemical leak?
+A: The worker should isolate the area, notify the supervisor, and follow the spill response process based on material risk.

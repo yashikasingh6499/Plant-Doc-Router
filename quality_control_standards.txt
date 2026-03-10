@@ -1,0 +1,76 @@
+Document Title: Quality Control Standards for Production Lines
+Document ID: QLT-001
+Version: 1.0
+Department: Quality Assurance
+
+Purpose:
+This document defines the inspection, acceptance, and process control requirements used to maintain product quality and compliance.
+
+Scope:
+Applies to incoming material checks, in-process inspection, and final product release.
+
+Section 1: Incoming Material Inspection
+Requirements:
+1. Verify supplier label, batch number, and material code.
+2. Check packaging integrity.
+3. Inspect for visible damage, contamination, or moisture exposure.
+4. Confirm quantity matches receiving records.
+5. Record acceptance or rejection in the inspection log.
+
+Reject incoming material if:
+- Packaging is damaged
+- Material identification is missing
+- Certificate of conformance is absent when required
+- Visible contamination is present
+
+Section 2: In-Process Quality Checks
+Operators and supervisors must verify:
+- Correct machine settings are in use
+- Product dimensions remain within tolerance
+- Surface finish meets standard
+- Labels and markings are correct
+- No visible defects are present
+
+Typical In-Process Defects:
+- Scratches
+- Incorrect dimensions
+- Misalignment
+- Surface contamination
+- Incomplete assembly
+- Wrong label
+
+Section 3: Final Inspection Standard
+Final inspection must confirm:
+1. Product dimensions meet specification tolerance.
+2. Appearance is free from critical defects.
+3. Required labeling is present and legible.
+4. Packaging is complete and correct.
+5. Batch documentation is complete.
+
+Defect Classification:
+Critical Defect:
+A defect that may create safety risk, regulatory noncompliance, or complete functional failure.
+Action: Immediate rejection and supervisor escalation.
+
+Major Defect:
+A defect that affects performance, fit, or customer acceptance.
+Action: Reject or hold for quality review.
+
+Minor Defect:
+A defect that does not affect primary function but does not fully meet cosmetic or workmanship standards.
+Action: Record and evaluate against acceptance criteria.
+
+Process Control Limits:
+- If defect rate exceeds 2 percent in a production hour, notify quality and production supervision.
+- If two consecutive samples fail dimensional inspection, stop the line and investigate.
+- Any critical defect requires immediate containment of affected batch.
+
+Supervisor Guidance:
+When repeated defects are observed, isolate suspect material, inform quality assurance, and prevent further release until disposition is given.
+
+Common Questions:
+Q: What should happen if two back-to-back samples fail measurement checks?
+A: The line should be stopped, the issue investigated, and quality assurance notified.
+
+Q: Can product with a major defect be released with supervisor approval?
+A: No. Product with a major defect must be rejected or formally reviewed by quality according to disposition rules.

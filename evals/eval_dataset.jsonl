@@ -1,0 +1,6 @@
+{"question":"What PPE is required before handling chemicals?","expected_source":"safety","expected_file":"safety_procedures.txt","expected_answer":"Use safety glasses, steel-toe shoes, and chemical-resistant gloves when handling chemicals."}
+{"question":"What should happen before clearing a machine jam?","expected_source":"safety","expected_file":"safety_procedures.txt","expected_answer":"Apply lockout-tagout before clearing the jam."}
+{"question":"What should be checked if the conveyor belt is not starting?","expected_source":"maintenance","expected_file":"maintenance_manuals.txt","expected_answer":"Check power supply, emergency stop, overload relay, motor starter, and jammed material."}
+{"question":"What should happen if the same fault repeats within 7 days?","expected_source":"maintenance","expected_file":"maintenance_manuals.txt","expected_answer":"Escalate the repeated fault for root cause review."}
+{"question":"What is the action if two consecutive samples fail dimensional inspection?","expected_source":"quality","expected_file":"quality_control_standards.txt","expected_answer":"Stop the line and investigate the issue."}
+{"question":"What should happen if a critical defect is found?","expected_source":"quality","expected_file":"quality_control_standards.txt","expected_answer":"Immediately reject or contain the affected batch and escalate."}
